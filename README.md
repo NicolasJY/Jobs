@@ -1,14 +1,5 @@
 # Jobs
-This part contain my daily job, including:
 
-Urgent positions;
+猎头职位汇总：https://docs.qq.com/sheet/DYkl2T2hDQ1hkSGVN
 
-News in Ai, Big data, Cloud domain;
-
-Activities held by our organization;
-
-Other sharing books, information, etc. that may help programmers.
-
-You can find me wechat in the "images" file
-
-WeChat：Alex_jiongyu ，添加请备注：公司+职位+姓名 from github
+955内推群职位汇总：https://docs.qq.com/sheet/DYnNmbnNjRGxlR213
